@@ -1,3 +1,0 @@
-/root/projects/LinuxConsol/bin/CMakeFiles/rebuild_cache.dir
-/root/projects/LinuxConsol/bin/CMakeFiles/edit_cache.dir
-/root/projects/LinuxConsol/bin/CMakeFiles/my_util.dir
